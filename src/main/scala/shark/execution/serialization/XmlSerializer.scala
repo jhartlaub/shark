@@ -29,6 +29,7 @@ import org.apache.hadoop.hive.ql.plan.GroupByDesc
 import org.apache.hadoop.hive.ql.plan.PlanUtils.ExpressionTypes
 
 import shark.{SharkConfVars, SharkEnvSlave}
+import org.apache.hadoop.hive.conf.HiveConf
 
 
 /**
